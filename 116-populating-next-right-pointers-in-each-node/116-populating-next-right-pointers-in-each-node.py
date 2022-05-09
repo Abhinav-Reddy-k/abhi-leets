@@ -13,16 +13,16 @@ class Solution:
         queue = deque([root])
         while queue:
             qlen = len(queue)
-            ln = []
+            prev = None
             for i in range(qlen):
                 cur = queue.popleft()
                 if not cur:
                     continue
-                ln.append(cur)
+                if prev:
+                    prev.next = cur
+                prev = cur
                 queue.append(cur.left)
                 queue.append(cur.right)
-            for j in range(len(ln)-1):
-                ln[j].next = ln[j+1]
         return root
                 
                 
