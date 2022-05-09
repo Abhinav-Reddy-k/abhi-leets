@@ -10,19 +10,19 @@ class Node:
 
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
-        queue = deque([root])
-        while queue:
-            qlen = len(queue)
-            prev = None
-            for i in range(qlen):
-                cur = queue.popleft()
-                if not cur:
-                    continue
-                if prev:
-                    prev.next = cur
-                prev = cur
-                queue.append(cur.left)
-                queue.append(cur.right)
+        
+        def rec(node):
+            if not node:
+                return
+            if node.left:
+                node.left.next =  node.right
+            if node.next:
+                if node.next.left:
+                   if node.right:
+                    node.right.next = node.next.left
+            rec(node.left)
+            rec(node.right)
+        rec(root)
         return root
                 
                 
