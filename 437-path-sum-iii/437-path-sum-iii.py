@@ -13,22 +13,14 @@ class Solution:
             if not node:
                 return
             nonlocal count
-            for i in r:
-                if i == 0:
-                    count +=1
+            count += r.count(0)
             if node.left:
                 val = node.left.val
-                lr = []
-                for i in r:
-                    lr.append(i-val)
-                lr.append(targetSum-val)
+                lr = [i-val for i in r] + [targetSum-val]
                 dfs(node.left,lr)
             if node.right:
                 val = node.right.val
-                rr = []
-                for i in r:
-                    rr.append(i-val)
-                rr.append(targetSum-val)
+                rr = [i-val for i in r] + [targetSum-val]
                 dfs(node.right,rr)
         dfs(root,[targetSum - root.val])
         return count
