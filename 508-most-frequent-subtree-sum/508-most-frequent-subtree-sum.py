@@ -11,7 +11,6 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0
-            
             cur = node.val + dfs(node.left) + dfs(node.right)
             freq[cur] += 1
             return cur
