@@ -1,13 +1,11 @@
 class Solution:
     def countVowelStrings(self, n: int) -> int:
-        n-=1
 
         arr = [1]*5
-
-
-        for j in range(n):
-            for i in range(5):
-                arr[i] = sum(arr[i:])
+               
+        for _ in range(n-1):
+            for i in range(1,5):
+                arr[i] = arr[i] + arr[i-1]
 
         return sum(arr)
         
