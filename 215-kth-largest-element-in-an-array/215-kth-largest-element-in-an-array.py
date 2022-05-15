@@ -5,7 +5,6 @@ class Solution:
         res = None
         while k:
             res = heapq.heappop(nums)
-            print(res)
             k-=1
         return -res
             
