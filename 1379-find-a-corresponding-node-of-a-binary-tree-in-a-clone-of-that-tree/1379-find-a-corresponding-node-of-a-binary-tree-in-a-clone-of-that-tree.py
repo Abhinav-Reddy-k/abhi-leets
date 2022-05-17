@@ -18,9 +18,9 @@ class Solution:
         return self.sameTree(node1.left,node2.left) and self.sameTree(node1.right,node2.right)
     
     def getTargetCopy(self, original: TreeNode, cloned: TreeNode, target: TreeNode) -> TreeNode:
-        q=deque([cloned])
+        q=[cloned]
         while q:
-            cur = q.popleft()
+            cur = q.pop()
             if not cur:
                 continue
             if cur.val == target.val:
