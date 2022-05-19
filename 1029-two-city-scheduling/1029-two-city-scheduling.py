@@ -1,22 +1,21 @@
 class Solution:
     def twoCitySchedCost(self, costs: List[List[int]]) -> int:
-        n = len(costs)/2
-        dp = {} #(i,a,b:min)
+        diff = []
+        for i in costs:
+            diff.append((i[1]-i[0],i[0],i[1]))
+        heapq.heapify(diff)
+        res = 0
+        count_a = 0
         
-        def dfs(i,a,b):
-            if a == n and b == n:
-                return 0
-            if a>n or b>n or i>=len(costs):
-                return float("inf")
-            
-            if (i,a,b) in dp:
-                return dp[(i,a,b)]
-            
-            dp[(i,a,b)] = min(costs[i][0]+dfs(i+1,a+1,b),costs[i][1]+dfs(i+1,a,b+1))
-            
-            return dp[(i,a,b)]
+        while count_a != len(costs)//2:
+            cur = heapq.heappop(diff)
+            res+=cur[2]
+            count_a+=1
         
-        return dfs(0,0,0)
+        for i in diff:
+            res+=i[1]
+        return res
+        
                 
             
             
