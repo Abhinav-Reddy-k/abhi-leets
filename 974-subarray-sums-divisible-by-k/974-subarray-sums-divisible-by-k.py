@@ -3,7 +3,7 @@ class Solution:
         arr = [0]
         for i in nums:
             arr.append(arr[-1]+i)
-        arr = list(map(lambda x:x%k,arr))
+        arr = [x%k for x in arr]
         c = Counter(arr)
         res = 0
         for i in c:
