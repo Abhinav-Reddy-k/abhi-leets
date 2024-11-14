@@ -43,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0789-kth-largest-element-in-a-stream) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
