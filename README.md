@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
