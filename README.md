@@ -59,8 +59,17 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
+## Sorting
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
