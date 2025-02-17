@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0057-insert-interval) |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
 ## Stack
 |  |
@@ -67,9 +69,22 @@ Collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
 ## Sorting
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
+## Backtracking
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
