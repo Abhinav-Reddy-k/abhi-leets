@@ -52,11 +52,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0057-insert-interval) |
+| [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Dynamic Programming
@@ -93,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 ## Graph
 |  |
@@ -107,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
