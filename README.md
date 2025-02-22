@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Dynamic Programming
 |  |
@@ -92,9 +93,18 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
