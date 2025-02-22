@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0567-permutation-in-string](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
