@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
+| [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,12 +109,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
+| [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Graph
 |  |
 | ------- |
