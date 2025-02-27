@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 ## Bitmask
 |  |
@@ -135,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
