@@ -143,8 +143,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 <!---LeetCode Topics End-->
