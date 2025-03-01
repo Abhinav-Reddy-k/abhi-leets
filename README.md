@@ -36,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Depth-First Search
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Dynamic Programming
 |  |
@@ -113,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Matrix
 |  |
@@ -120,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 ## Graph
 |  |
@@ -135,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
