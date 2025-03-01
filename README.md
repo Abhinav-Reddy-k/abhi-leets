@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
+| [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
+| [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
+| [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -142,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
+| [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 ## Shortest Path
 |  |
 | ------- |
