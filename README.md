@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0567-permutation-in-string) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0463-island-perimeter) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
 ## Stack
 |  |
