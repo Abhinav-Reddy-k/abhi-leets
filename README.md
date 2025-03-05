@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
+| [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
@@ -147,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 ## Shortest Path
 |  |
 | ------- |
