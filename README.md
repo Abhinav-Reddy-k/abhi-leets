@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Depth-First Search
 |  |
 | ------- |
