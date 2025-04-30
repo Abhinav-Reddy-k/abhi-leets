@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0231-power-of-two) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Recursion
 |  |
