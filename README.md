@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0567-permutation-in-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Depth-First Search
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0638-shopping-offers](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0638-shopping-offers) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1488-sort-integers-by-the-power-value) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Stack
 |  |
 | ------- |
