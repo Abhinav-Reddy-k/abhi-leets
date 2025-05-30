@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Dynamic Programming
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
 | [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
