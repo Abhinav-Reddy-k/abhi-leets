@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0971-shortest-bridge) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2035-count-sub-islands](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0744-network-delay-time) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2213-find-all-people-with-secret](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2213-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
