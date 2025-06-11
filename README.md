@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0032-longest-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/0567-permutation-in-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
 | ------- |
@@ -204,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhinav-Reddy-k/abhi-leets/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
