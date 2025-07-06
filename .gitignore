@@ -1,0 +1,14 @@
+# .gitignore additions for analysis tools
+# Analysis artifacts (keep reports but ignore temporary files)
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+.DS_Store
+
+# Keep analysis reports - they are valuable documentation
+# ANALYSIS_REPORT.md
+# ORGANIZATION_SUMMARY.md  
+# ORGANIZATION_ANALYSIS.md
+# DIFFICULTY_BREAKDOWN.md
+# analyze_organization.py
